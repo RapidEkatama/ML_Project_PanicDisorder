@@ -1,0 +1,33 @@
+INFORMATION
+----------------------------------------------------------------------------------------------
+https://www.kaggle.com/datasets/muhammadshahidazeem/panic-disorder-detection-dataset
+
+Columns, 
+1. ID, ID from respondents
+2. Age, respondent's age
+3. Gender, respondent's sex
+4. Family_History, respondent's family history is have a same disorder or not
+5. Personal_History, respondent's profile have the disorder before or not
+6. Current_Stressors, the level of stress being experienced
+7. Symptom, emerging disease
+8. Severity, severity of the disease experienced
+9. Impact_Onlife, how much influence the respondent's panic disorder has on his life
+10. Demographics, the residential environment of the respondent
+11. Medical_History, medical history of the respondent
+12. Psychiatric_History, history of mental illness
+13. Substance_Use, use of certain addictive substances
+14. Coping_Mechanism, respondents' mechanisms for coping with mental illness
+15. Social_Support, social support for mental illness that is being experienced by respondents
+16. Lifestyle_Factors, Respondent's lifestyle factors
+17. PD_Diagnose, Diagnosis results for mental illness "Panic Disorder"
+
+OVERVIEW
+A total of 120,000 rows of data were obtained which contained the daily reports of respondents with
+various backgrounds back against a condition that leads to "Panic Disorder". For the hope of the output
+is how a reader or society sees a condition with broad background
+
+
+
+
+
+
