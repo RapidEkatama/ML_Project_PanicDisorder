@@ -28,5 +28,5 @@ Thankyou
 
 
 Burhan Rafid Ekatama
-/n b.rafidekatama@gmail.com
-/n https://www.linkedin.com/in/burhanrafidekatama/
+b.rafidekatama@gmail.com
+https://www.linkedin.com/in/burhanrafidekatama/
