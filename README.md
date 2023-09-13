@@ -27,7 +27,7 @@ Several factors become the main cause of panic disorder, and the way to solve it
 3. Panic Disorder Script.ipynb : Contain the data work process of Panic Disorder in Python Programming Language
 4. `panic_disorder_dataset_testing.csv` and `panic_disorder_dataset_training.csv` : contain the dataset of Panic Disorder.
 
-#### NOTE
+### NOTE
 a. In files `Panic Disorder Script.ipynb` if you want run it and import the csv dataset file on desktop, you can erase or skip run the code with the heading `Import File Using PyDrive`. If you run on Google Colab, run the code sequentially.
 b. Get all of files in one folder (either use desktop or google colab).
 c. If you run using Google Colab, on code with the heading `Import File Using PyDrive`, row with command `drive.CreateFile` fill the `id:` with the ID from share link the .csv files. For example, after you get share link on one .csv file, open it into new tab, and you get web address line like "https://drive.google.com/file/d/1gBIB1n1l_EV0mmV0DdYRdBWj_cPYP95D/view". The .csv ID is "1gBIB1n1l_EV0mmV0DdYRdBWj_cPYP95D"
