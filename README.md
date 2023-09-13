@@ -1,7 +1,7 @@
 # ML_Project_PanicDisorder
 
 ### Project Overview
-Contains my first project, that demonstrate how the Panic Disorder do based on data. This project used a several machine learning to compare each accuration
+Contains my first project, that demonstrate how the Panic Disorder do based on data. This project used a several machine learning to compare each effectiveness.
 
 ### Problem and Data Overview
 Panic attacks are feelings of intense fear and anxiety. Anxiety is a feeling of discomfort, such as worry or fear, that can be mild or severe.
@@ -26,6 +26,8 @@ Several factors become the main cause of panic disorder, and the way to solve it
 I think that's what i can explain, if you have any criticism and suggestions, don't hesitate to contact me anytime
 Thankyou
 
+
+#Project #DataScientist #DataAnalyst #MachineLearning #Panic #Disorder #Analysis #Learning
 
 Burhan Rafid Ekatama
 b.rafidekatama@gmail.com
